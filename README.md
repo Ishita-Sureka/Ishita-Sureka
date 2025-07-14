@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
+I'm Ishita Sureka, and welcome to my GitHub profile!
 
-<!--
-**Ishita-Sureka/Ishita-Sureka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on building projects to enhance my coding skills and contribute to open-source communities.
+🌱 I’m currently learning machine learning and data science concepts.
+👯 I’m looking to collaborate on exciting open-source projects or innovative tech ideas.
+🤔 I’m looking for help with optimizing code and exploring advanced programming concepts.
+💬 Ask me about machine learning, data science, or my favorite coding tools!
+📫 How to reach me: https://www.linkedin.com/in/ishita-sureka-279b852a1/.
+😄 Pronouns: she/her.
+⚡ Fun fact: I’m extremely punctual and can’t stand anything being late!
